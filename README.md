@@ -24,4 +24,4 @@ Based on these two dates, the following transformations have been made:
 - plot 3: create the same datetime variable as stated before
 - plot 4: merge all variables as created before
 
-All of the plots are stored as a 480x480 png file.
+All of the plots are stored as a 480x480 png file in separate files.
